@@ -33,14 +33,14 @@ h3{
 h4{
   text-align:center;
   font-size:160%;
-  padding-top:130px;
+  padding-top:120px;
   
 }
 
 h5{
   text-align:center;
   font-size:160%;
-  padding-top:320px;
+  padding-top:360px;
   margin-bottom:0;
 }
 
