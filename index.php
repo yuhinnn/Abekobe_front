@@ -6,6 +6,6 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<img src="img/page.png">
+<img src="img/page.jpg">
 </body>
 </html>/
