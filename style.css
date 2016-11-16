@@ -1,43 +1,7 @@
+
 BODY {
- height:2800px;
+ height:6400px;
  background-repeat: no-repeat; 
  background-position:50% 50%;
- width:100%;
-}
-
-h1{
-  text-align:center;
-}
-h2{
-  text-align:center;
-  padding-top:45px;
-}
-p{
-  text-align:center;
-  font-size:78%;
-  margin-bottom:0;
-  
-}
-h3{
-  text-align:center;
-  font-size:140%;
-  padding-top:55px;
-}
-
-h4{
-  text-align:center;
-  font-size:160%;
-  padding-top:130px;
-  
-}
-
-h5{
-  text-align:center;
-  font-size:160%;
-  padding-top:350px;
-  margin-bottom:0;
-}
-
-.member{
-  padding-bottom:100px;
+ background-size:100%;
 }
