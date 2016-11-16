@@ -2,6 +2,7 @@ BODY {
  height:2800px;
  background-repeat: no-repeat; 
  background-position:50% 50%;
+ width:100%;
 }
 
 h1{
@@ -14,6 +15,7 @@ h2{
 p{
   text-align:center;
   font-size:78%;
+  margin-bottom:0;
   
 }
 h3{

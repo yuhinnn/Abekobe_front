@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="style2.css" media="screen and (min-width: 440px)">
 </head>
-<body background="img/page.jpg">
+<body background="img/page.jpg" width="100%">
 <h1><font face="Impact">オモロタスProduction</font></h1>
 <h2><font color="yellow">オモロタス</font>とは？</h2> </body> 
 <p>元々、メンバーはたくさんの人を『喜ばせて幸せにしたい』<br>と思い事務所をたてました。<br>私たちは、人が喜んでいる姿を見るのが大好きです。<br>
