@@ -16,4 +16,26 @@ p{
   font-size:78%;
   
 }
+h3{
+  text-align:center;
+  font-size:140%;
+  padding-top:55px;
+}
 
+h4{
+  text-align:center;
+  font-size:160%;
+  padding-top:130px;
+  
+}
+
+h5{
+  text-align:center;
+  font-size:160%;
+  padding-top:360px;
+  margin-bottom:0;
+}
+
+.member{
+  padding-bottom:100px;
+}
