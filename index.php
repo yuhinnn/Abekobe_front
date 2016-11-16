@@ -5,9 +5,7 @@
   <title>omorotasu</title>
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
-<div class="background" align="center">
-<img  class="top" src="img/page.jpg">
-</div>
+<body background="img/page.jpg">
+<h1><font face="Impact">オモロタスProduction</font></h1>
 </body>
 </html>
