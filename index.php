@@ -40,7 +40,7 @@ h4{
 h5{
   text-align:center;
   font-size:160%;
-  padding-top:360px;
+  padding-top:320px;
   margin-bottom:0;
 }
 
