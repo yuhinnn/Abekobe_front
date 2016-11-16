@@ -3,8 +3,51 @@
 <head>
   <meta charset="utf-8">
   <title>omorotasu</title>
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="style2.css" media="screen and (min-width: 440px)">
+  <style type="text/css">
+BODY {
+ height:2800px;
+ background-repeat: no-repeat; 
+ background-position:50% 50%;
+ width:100%;
+}
+
+h1{
+  text-align:center;
+}
+h2{
+  text-align:center;
+  padding-top:45px;
+}
+p{
+  text-align:center;
+  font-size:78%;
+  margin-bottom:0;
+  
+}
+h3{
+  text-align:center;
+  font-size:140%;
+  padding-top:55px;
+}
+
+h4{
+  text-align:center;
+  font-size:160%;
+  padding-top:130px;
+  
+}
+
+h5{
+  text-align:center;
+  font-size:160%;
+  padding-top:360px;
+  margin-bottom:0;
+}
+
+.member{
+  padding-bottom:100px;
+}
+  </style>
 </head>
 <body background="img/page.jpg" width="100%">
 <h1><font face="Impact">オモロタスProduction</font></h1>
