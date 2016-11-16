@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <title>omorotasu</title>
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style2.css" media="screen and (min-width: 440px)">
 </head>
 <body background="img/page.jpg">
 <h1><font face="Impact">オモロタスProduction</font></h1>
