@@ -7,4 +7,13 @@ BODY {
 h1{
   text-align:center;
 }
+h2{
+  text-align:center;
+  padding-top:45px;
+}
+p{
+  text-align:center;
+  padding-top:5px;
+  
+}
 
