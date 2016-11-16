@@ -27,7 +27,7 @@ p{
 h3{
   text-align:center;
   font-size:140%;
-  padding-top:35px;
+  padding-top:25px;
 }
 
 h4{
