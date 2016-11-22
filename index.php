@@ -6,13 +6,18 @@
 body{
   margin: 0;
 }
+.content{
+height:2800px;
+}
 .aidl{
  width:100%;
  padding-top:30px;
  
 }
 .main{
-  width:100%;
+  background-image:url(img/main.jpg);
+  background-position:center;
+  background-repeat:no-repeat;
 }
 .logo{
  padding:10px 0px 0px 50px;
@@ -353,10 +358,10 @@ footer{
     </div>
     <div class="header-right">
     <ul>
-     <a href="#smoothplay"><li><font size="5">Top</font></li></a>  
-     <a><li><font size="5">About</font></li></a> 
-     <a><li><font size="5">Idol</font></li></a>
-     <a><li><font size="5">Contact</font></li></a>
+     <a href="#smoothplay"><li><font size="5">About</font></li></a>  
+     <a href="#smoothplay"><li><font size="5">Produce</font></li></a>  
+     <a href="#smoothplay"><li><font size="5">Contact</font></li></a>  
+     <a href="#smoothplay"><li><font size="5">Member</font></li></a>  
    </ul>
     </div>
     </div>
@@ -371,9 +376,11 @@ footer{
   </div>
 </div>
 
-
-<img class="main" src="img/main.jpg">
-
+<div class="main">
+<div class="content">
+<a class="1">.</a>
+</div>
+</div>
 <footer>
 <div class="fotter-left">
 オモロタス
