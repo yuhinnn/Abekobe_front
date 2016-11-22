@@ -351,10 +351,10 @@ footer{
     </div>
     <div class="header-right">
     <ul>
-     <a><li><font size="5"face="Hiragino Kaku Gothic Std">トップ</font></li></a>  
-     <a><li><font face="Hiragino Kaku Gothic Std">アバウト</font></li></a> 
-     <a><li><font face="Hiragino Kaku Gothic Std">アイドル</font></li></a>
-     <a><li><font face="Hiragino Kaku Gothic Std">お問い合わせ</font></li></a>
+     <a><li><font size="5"face="Hiragino Kaku Gothic Std">Top</font></li></a>  
+     <a><li><font size="5"face="Hiragino Kaku Gothic Std">About</font></li></a> 
+     <a><li><font size="5"face="Hiragino Kaku Gothic Std">Idol</font></li></a>
+     <a><li><font size="5"face="Hiragino Kaku Gothic Std">Contact</font></li></a>
    </ul>
     </div>
     </div>
@@ -369,8 +369,8 @@ footer{
   </div>
 </div>
 
-<img class="line" src="img/line.jpg">
 
+<img class="line" src="img/line.jpg">
 
 <footer>
 <div class="fotter-left">
