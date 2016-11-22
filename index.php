@@ -15,7 +15,8 @@ body{
   width:100%;
 }
 .logo{
- padding-top:5px;
+ padding:10px 0px 0px 120px;
+
 }
 a {
   text-decoration: none;
@@ -75,6 +76,7 @@ header{
   margin-right: 30px;
   padding-top: 10px;
 }
+
 .header-right li{
   list-style-type: none;
   float: left;
@@ -348,7 +350,7 @@ footer{
   <header>
     <div class="head-container">
     <div class="header-left">
-    <img class="logo" src="img/logo.jpg">
+    <img class="logo" src="img/headlogo.jpg">
     </div>
     <div class="header-right">
     <ul>
