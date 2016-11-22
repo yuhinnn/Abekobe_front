@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <title>Tech Fellow</title>
+  <title>オモロタス</title>
   <style type="text/css">
 body{
   margin: 0;
@@ -23,7 +23,7 @@ a:hover {
   background-image: url(img/aidl.jpg);
   background-size:cover;
   margin:20px;
-  width:100%;
+ text-align:center;
 }
 
 .top-wrapper h1 {
