@@ -18,19 +18,12 @@ a:hover {
   text-decoration: underline;
   color: #1b7ccd;
 }
-.top-container{
-  width:100%;
-  margin: 0 auto;
-  padding: 0 15px;
-  text-align: center;
-  color: white;
-}
 
 .top-wrapper{
-  background-image: url(img/star2.jpg);
+  background-image: url(img/aidl.jpg);
   background-size:cover;
-  padding: 180px 0 300px 0;
   margin:20px;
+  width:100%;
 }
 
 .top-wrapper h1 {
@@ -232,11 +225,6 @@ a:hover {
 }
 
 
-.top-wrapper h1 {
-  opacity: 0.8;
-  font-size: 45px;
-  letter-spacing: 5px;
-}
 
 .sinki{
   background-color: #239b76;
@@ -360,7 +348,7 @@ footer{
   <header>
     <div class="head-container">
     <div class="header-left">
-    <h1>オモロタス</h1>
+    <h1>オモロタス production</h1>
     </div>
     <div class="header-right">
     <ul>
