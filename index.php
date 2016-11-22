@@ -218,7 +218,6 @@ a:hover {
   color: #1b7ccd;
 }
 .top-container{
-  width:100%;
   margin: 0 auto;
   text-align: center;
   color: white;
