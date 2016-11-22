@@ -30,12 +30,6 @@ a:hover {
  text-align:center;
 }
 
-.top-wrapper h1 {
-  opacity: 0.8;
-  font-size: 45px;
-  letter-spacing: 5px;
-}
-
 .sinki{
   background-color: #239b76;
 }
@@ -67,7 +61,6 @@ header{
 
 .header-left{
   float:left ;
-  margin-left:15px;
   color:white;
 }
 
@@ -261,7 +254,6 @@ header{
 
 .header-left{
   float:left ;
-  margin-left:15px;
   color:white;
 }
 
@@ -352,7 +344,7 @@ footer{
   <header>
     <div class="head-container">
     <div class="header-left">
-    <h1>オモロタス production</h1>
+    <img class="logo" src="img/logo.jpg">
     </div>
     <div class="header-right">
     <ul>
