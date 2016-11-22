@@ -352,10 +352,10 @@ footer{
     </div>
     <div class="header-right">
     <ul>
-     <a><li>トップ</li></a>  
-     <a><li>アバウト</li></a> 
-     <a><li>アイドル</li></a>
-     <a><li>お問い合わせ</li></a>
+     <a><li><font face="Hiragino Kaku Gothic Std">トップ</font></li></a>  
+     <a><li><font face="Hiragino Kaku Gothic Std">アバウト</font></li></a> 
+     <a><li><font face="Hiragino Kaku Gothic Std">アイドル</font></li></a>
+     <a><li><font face="Hiragino Kaku Gothic Std">お問い合わせ</font></li></a>
    </ul>
     </div>
     </div>
@@ -375,15 +375,14 @@ footer{
 
 <footer>
 <div class="fotter-left">
- Tech Fellow
+オモロタス
 </div>
 
 <div class="fotter-right">
-  <%= link_to "Top",root_path%>
-  <%= link_to "About",about_path%>
-  <%= link_to "create",new_note_path%>
-  <%= link_to "Login","#"%>
-  <%= link_to "Index",notes_path%>
+     <a><li><font face="Hiragino Kaku Gothic Std">トップ</font></li></a>  
+     <a><li><font face="Hiragino Kaku Gothic Std">アバウト</font></li></a> 
+     <a><li><font face="Hiragino Kaku Gothic Std">アイドル</font></li></a>
+     <a><li><font face="Hiragino Kaku Gothic Std">お問い合わせ</font></li></a>
 </div>
 
 </footer>
