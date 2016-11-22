@@ -20,6 +20,7 @@ body{
 a {
   text-decoration: none;
   color: #1f89e2;
+  font-family:impact;
 }
 
 a:hover {
@@ -351,10 +352,10 @@ footer{
     </div>
     <div class="header-right">
     <ul>
-     <a><li><font size="5"face="impact">Top</font></li></a>  
-     <a><li><font size="5"face="impact">About</font></li></a> 
-     <a><li><font size="5"face="impact">Idol</font></li></a>
-     <a><li><font size="5"face="impact">Contact</font></li></a>
+     <a><li><font size="5">Top</font></li></a>  
+     <a><li><font size="5">About</font></li></a> 
+     <a><li><font size="5">Idol</font></li></a>
+     <a><li><font size="5">Contact</font></li></a>
    </ul>
     </div>
     </div>
