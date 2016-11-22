@@ -351,7 +351,7 @@ footer{
     </div>
     <div class="header-right">
     <ul>
-     <a><li><font face="Hiragino Kaku Gothic Std">トップ</font></li></a>  
+     <a><li><font size="5"face="Hiragino Kaku Gothic Std">トップ</font></li></a>  
      <a><li><font face="Hiragino Kaku Gothic Std">アバウト</font></li></a> 
      <a><li><font face="Hiragino Kaku Gothic Std">アイドル</font></li></a>
      <a><li><font face="Hiragino Kaku Gothic Std">お問い合わせ</font></li></a>
