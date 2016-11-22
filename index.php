@@ -6,6 +6,10 @@
 body{
   margin: 0;
 }
+.aidl{
+ width:100%;
+ 
+}
 .line{
   width:100%;
 }
@@ -219,9 +223,9 @@ a:hover {
 .top-container{
   width:100%;
   margin: 0 auto;
-  padding-top:700px;
   text-align: center;
   color: white;
+  padding:20px;
 }
 
 
@@ -362,7 +366,7 @@ footer{
   </header>
 
 
-<div class="top-wrapper">
+<img class="aidl" src="img/aidl.jpg">
   <div class="top-container">
     <a href="#" class="btn sinki">新規登録</a>
     <a href="#" class="btn facebook">facebook</a>
