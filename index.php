@@ -11,7 +11,7 @@ body{
  padding-top:30px;
  
 }
-.line{
+.main{
   width:100%;
 }
 .logo{
@@ -370,7 +370,7 @@ footer{
 </div>
 
 
-<img class="line" src="img/line.jpg">
+<img class="main" src="img/main.jpg">
 
 <footer>
 <div class="fotter-left">
