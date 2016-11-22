@@ -21,7 +21,6 @@ body{
 a {
   text-decoration: none;
   color: #1f89e2;
-  font-family:impact;
 }
 
 a:hover {
@@ -74,7 +73,7 @@ header{
 .header-right{
   float:right;
   margin-right: 30px;
-  padding-top: 10px;
+  padding-top: 5px;
 }
 
 .header-right li{
@@ -267,7 +266,7 @@ header{
 .header-right{
   float:right;
   margin-right: 30px;
-  padding-top: 10px;
+  padding-top: 5px;
 }
 .header-right li{
   list-style-type: none;
