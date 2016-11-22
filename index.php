@@ -8,10 +8,14 @@ body{
 }
 .aidl{
  width:100%;
+ padding-top:30px;
  
 }
 .line{
   width:100%;
+}
+.logo{
+ padding-top:5px;
 }
 a {
   text-decoration: none;
@@ -246,7 +250,7 @@ a:hover {
 }
 
 header{
-  background-color:#333333;
+  background-color:#d59e51;
   width:100%;
   height: 80px;
   padding-bottom:0;
