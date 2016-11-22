@@ -353,7 +353,7 @@ footer{
     </div>
     <div class="header-right">
     <ul>
-     <a><li><font size="5">Top</font></li></a>  
+     <a href="#smoothplay"><li><font size="5">Top</font></li></a>  
      <a><li><font size="5">About</font></li></a> 
      <a><li><font size="5">Idol</font></li></a>
      <a><li><font size="5">Contact</font></li></a>
@@ -379,7 +379,7 @@ footer{
 オモロタス
 </div>
 
-<div class="fotter-right">
+<div id="smoothplay" class="fotter-right">
      <a><li><font face="Hiragino Kaku Gothic Std">トップ</font></li></a>  
      <a><li><font face="Hiragino Kaku Gothic Std">アバウト</font></li></a> 
      <a><li><font face="Hiragino Kaku Gothic Std">アイドル</font></li></a>
