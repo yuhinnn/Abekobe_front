@@ -11,7 +11,7 @@ body{
  padding-top:30px;
  
 }
-.main{
+.impact{
   width:100%;
 }
 .logo{
@@ -351,10 +351,10 @@ footer{
     </div>
     <div class="header-right">
     <ul>
-     <a><li><font size="5"face="Hiragino Kaku Gothic Std">Top</font></li></a>  
-     <a><li><font size="5"face="Hiragino Kaku Gothic Std">About</font></li></a> 
-     <a><li><font size="5"face="Hiragino Kaku Gothic Std">Idol</font></li></a>
-     <a><li><font size="5"face="Hiragino Kaku Gothic Std">Contact</font></li></a>
+     <a><li><font size="5"face="impact">Top</font></li></a>  
+     <a><li><font size="5"face="impact">About</font></li></a> 
+     <a><li><font size="5"face="impact">Idol</font></li></a>
+     <a><li><font size="5"face="impact">Contact</font></li></a>
    </ul>
     </div>
     </div>
