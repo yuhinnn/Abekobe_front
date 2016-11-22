@@ -11,7 +11,7 @@ body{
  padding-top:30px;
  
 }
-.impact{
+.main{
   width:100%;
 }
 .logo{
