@@ -2,7 +2,359 @@
 <html lang="ja">
 <head>
   <title>Tech Fellow</title>
-<link rel="stylesheet" href="style.css">
+  <style type="text/css">
+body{
+  margin: 0;
+}
+.line{
+  width:100%;
+}
+a {
+  text-decoration: none;
+  color: #1f89e2;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #1b7ccd;
+}
+.top-container{
+  width:100%;
+  margin: 0 auto;
+  padding: 0 15px;
+  text-align: center;
+  color: white;
+}
+
+.top-wrapper{
+  background-image: url(img/star2.jpg);
+  background-size:cover;
+  padding: 180px 0 300px 0;
+  margin:20px;
+}
+
+.top-wrapper h1 {
+  opacity: 0.8;
+  font-size: 45px;
+  letter-spacing: 5px;
+}
+
+.sinki{
+  background-color: #239b76;
+}
+
+.facebook{
+  background-color: #3b5998;
+}
+
+.twitter{
+  background-color: #55acee;
+}
+
+.btn{
+ color: white;
+ opacity:0.8;
+ padding:10px 50px;
+
+}
+.btn:hover{
+  opacity:1;
+}
+
+header{
+  background-color:#333333;
+  width:100%;
+  height: 80px;
+  padding-bottom:0;
+}
+
+.header-left{
+  float:left ;
+  margin-left:15px;
+  color:white;
+}
+
+
+.header-right{
+  float:right;
+  margin-right: 30px;
+  padding-top: 10px;
+}
+.header-right li{
+  list-style-type: none;
+  float: left;
+  margin: 0 20px;
+}
+
+.header-right a{
+  color:white;
+}
+.header-left a{
+  color:white;
+}
+footer{
+  border-top:1px solid #777777;
+  margin-top:70px;
+  padding-top:10px;
+
+}
+
+.fotter-left{
+  float: left;
+}
+.fotter-right{
+  float:right;
+  margin-right:30px;
+}
+
+.fotter-right a{
+  color:black;
+}
+
+.fotter-left a {
+  color:black;
+  margin-left: 10px;
+}
+.msg{
+  background-color:white;
+  padding:0 50px 20px 50px;
+  border:solid 5px;
+  box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
+}
+.wrapper-about{
+  margin:0 auto;
+  background-image: url(sea.jpg);
+  background-size: cover;
+  padding:180px;
+}
+.wrapper-index {
+    margin: 0 auto;
+    background-image: url(tree2.jpg);
+    background-size: cover;
+    padding: 180px;
+}
+.midashi-about{
+  background-color: rgb(236, 236, 236);
+  padding:1px 15px;
+  border-radius: 0.2cm;
+  margin-top:30px;
+  text-align: center;
+
+}
+.wrapper-index{
+  margin:0 auto;
+  background-image: url(tree2.jpg);
+  background-size: cover;
+  padding:180px;
+}
+.midashi-index{
+  background-color: rgb(236, 236, 236);
+  padding:1px 15px;
+  border-radius: 0.2cm;
+  margin-top:30px;
+  text-align: center;
+
+}
+body{
+  margin: 0;
+}
+.wrapper{
+  margin:0 auto;
+  background-image: url(hand.jpg);
+  background-size: cover;
+  padding:180px;
+}
+.msg{
+  background-color:white;
+  padding:0 50px 20px 50px;
+  border:solid 5px;
+  box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
+}
+.midashi{
+  background-color: rgb(236, 236, 236);
+  padding:1px 15px;
+  border-radius: 0.2cm;
+  margin-top:30px;
+  text-align: center;
+}
+
+
+.tytle{
+  display: block;
+}
+
+.content{
+  display: block;
+}
+
+
+.tytle-area{
+  width:50%;
+}
+
+.content-area{
+  height: 180px;
+ width: 70%;
+}
+
+.notes{
+  list-style-type: none;
+}
+.notes li {
+  border-top:1px solid #e8e8e8;
+  border-width:20%;
+  padding:25px 0 25px 100px;
+}
+.alert ul{
+  margin-left:-24px;
+}
+h1 {
+  text-align: center;
+}
+body{
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: #1f89e2;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #1b7ccd;
+}
+.top-container{
+  width:100%;
+  margin: 0 auto;
+  padding-top:700px;
+  text-align: center;
+  color: white;
+}
+
+
+.top-wrapper h1 {
+  opacity: 0.8;
+  font-size: 45px;
+  letter-spacing: 5px;
+}
+
+.sinki{
+  background-color: #239b76;
+}
+
+.facebook{
+  background-color: #3b5998;
+}
+
+.twitter{
+  background-color: #55acee;
+}
+
+.btn{
+ color: white;
+ opacity:0.8;
+ padding:10px 50px;
+
+}
+.btn:hover{
+  opacity:1;
+}
+
+header{
+  background-color:#333333;
+  width:100%;
+  height: 80px;
+  padding-bottom:0;
+}
+
+.header-left{
+  float:left ;
+  margin-left:15px;
+  color:white;
+}
+
+
+.header-right{
+  float:right;
+  margin-right: 30px;
+  padding-top: 10px;
+}
+.header-right li{
+  list-style-type: none;
+  float: left;
+  margin: 0 20px;
+}
+
+.header-right a{
+  color:white;
+}
+.header-left a{
+  color:white;
+}
+footer{
+  border-top:1px solid #777777;
+  margin-top:70px;
+  padding-top:10px;
+
+}
+
+.fotter-left{
+  float: left;
+}
+.fotter-right{
+  float:right;
+  margin-right:30px;
+}
+
+.fotter-right a{
+  color:black;
+}
+
+.fotter-left a {
+  color:black;
+  margin-left: 10px;
+}
+.msg{
+  background-color:white;
+  padding:0 50px 20px 50px;
+  border:solid 5px;
+  box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
+}
+.wrapper-about{
+  margin:0 auto;
+  background-image: url(sea.jpg);
+  background-size: cover;
+  padding:180px;
+}
+.wrapper-index {
+    margin: 0 auto;
+    background-image: url(tree2.jpg);
+    background-size: cover;
+    padding: 180px;
+}
+.midashi-about{
+  background-color: rgb(236, 236, 236);
+  padding:1px 15px;
+  border-radius: 0.2cm;
+  margin-top:30px;
+  text-align: center;
+
+}
+.wrapper-index{
+  margin:0 auto;
+  background-image: url(tree2.jpg);
+  background-size: cover;
+  padding:180px;
+}
+.midashi-index{
+  background-color: rgb(236, 236, 236);
+  padding:1px 15px;
+  border-radius: 0.2cm;
+  margin-top:30px;
+  text-align: center;
+
+}
+  </style>
 </head>
 <body>
   <header>

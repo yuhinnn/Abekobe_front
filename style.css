@@ -24,7 +24,6 @@ a:hover {
 .top-wrapper{
   background-image: url(img/star2.jpg);
   background-size:cover;
-  width:100%;
   padding: 180px 0 300px 0;
   margin:20px;
 }
