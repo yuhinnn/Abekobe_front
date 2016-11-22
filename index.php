@@ -19,6 +19,11 @@ height:2800px;
   background-position:center;
   background-repeat:no-repeat;
 }
+.produce{
+  padding-top:9000px;
+}
+
+}
 .logo{
  padding:10px 0px 0px 50px;
 
@@ -378,7 +383,10 @@ footer{
 
 <div class="main">
 <div class="content">
-<a class="1">.</a>
+<a class="about">.</a>
+<a class="produce">.</a>
+<a class="contact">.</a>
+<a class="member">.</a>
 </div>
 </div>
 <footer>
