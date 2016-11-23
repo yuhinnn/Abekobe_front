@@ -25,7 +25,7 @@ height:2800px;
 
 }
 .logo{
- padding:10px 0px 0px 50px;
+ padding:20px 0px 0px 50px;
 
 }
 a {
@@ -77,6 +77,7 @@ header{
 .header-left{
   float:left ;
   color:white;
+  padding-top:10px;
 }
 
 
@@ -265,11 +266,6 @@ header{
   width:100%;
   height: 80px;
   padding-bottom:0;
-}
-
-.header-left{
-  float:left ;
-  color:white;
 }
 
 
