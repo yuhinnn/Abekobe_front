@@ -101,7 +101,7 @@ footer{
 
 .fotter-right{
   float:right;
-  margin:20px 150px 0 0;
+  margin:20px 200px 0 0;
 }
 
 .fotter-right a{
