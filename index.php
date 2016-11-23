@@ -6,6 +6,20 @@
 body{
   margin: 0;
 }
+.relative{
+ position:relative;
+}
+.absolute {
+    position: absolute;
+    right: 400px;
+    bottom: 2400px;
+}
+.gmail{
+ color:red;
+}
+.gmail:hover{
+ color:blue;
+}
 .content{
 height:2800px;
 }
@@ -55,7 +69,7 @@ a:hover {
 }
 
 .sinki{
-  background-color: #239b76;
+  background-color:red;
 }
 
 .facebook{
@@ -238,9 +252,6 @@ a:hover {
 
 
 
-.sinki{
-  background-color: #239b76;
-}
 
 .facebook{
   background-color: #3b5998;
@@ -366,13 +377,17 @@ footer{
 
 <img class="aidl" src="img/aidl.jpg">
   <div class="top-container">
-    <a href="#" class="btn sinki">新規登録</a>
-    <a href="#" class="btn facebook">facebook</a>
-    <a href="#" class="btn twitter">twitter</a>
+    <a href="#" class="btn sinki">Gmail</a>
+    <a href="https://www.facebook.com/omorotasu/" class="btn facebook">facebook</a>
+    <a href="http://twitter.com/omorotasu3" class="btn twitter">twitter</a>
   </div>
 </div>
-
+   <div class="relative">
     <img class="main" src="img/main.jpg">
+    <p class="absolute gmail">
+    <font size="25">omlts.abekobe@gmail.com</font>
+    </p>
+　</div>
 <footer>
 
 <div class="fotter-left">
