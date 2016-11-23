@@ -11,14 +11,23 @@ height:2800px;
 }
 .aidl{
  width:100%;
- padding-top:30px;
+ padding-top:20px;
  
 }
+
+/*
 .main{
   background-image:url(img/main.jpg);
   background-position:center;
   background-repeat:no-repeat;
+}*/ 
+
+.main{
+  margin:0 auto;
+  display: block;
+  width:95%;
 }
+
 .produce{
   padding-top:9000px;
 }
@@ -363,15 +372,9 @@ footer{
   </div>
 </div>
 
-<div class="main">
-<div class="content">
-<a class="about">.</a>
-<a class="produce">.</a>
-<a class="contact">.</a>
-<a class="member">.</a>
-</div>
-</div>
+    <img class="main" src="img/main.jpg">
 <footer>
+
 <div class="fotter-left">
     <img class="logo" src="img/headlogo.jpg">
 </div>
