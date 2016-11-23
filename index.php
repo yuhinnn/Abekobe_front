@@ -12,7 +12,7 @@ body{
 .absolute {
     position: absolute;
     right: 200px;
-    bottom: 2000px;
+    bottom: 1500px;
 }
 .gmail{
  color:red;
