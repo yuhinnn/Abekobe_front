@@ -67,13 +67,6 @@ a:hover {
   opacity:1;
 }
 
-header{
-  background-color:#333333;
-  width:100%;
-  height: 80px;
-  padding-bottom:0;
-}
-
 .header-left{
   float:left ;
   color:white;
@@ -111,7 +104,7 @@ footer{
 }
 .fotter-right{
   float:right;
-  margin-right:30px;
+  margin:40px 500px 0px 0px;
 }
 
 .fotter-right a{
@@ -287,18 +280,14 @@ header{
   color:white;
 }
 footer{
-  border-top:1px solid #777777;
-  margin-top:70px;
-  padding-top:10px;
-
+  background-color:#d59e51;
+  width:100%;
+  height: 80px;
+  padding-bottom:0;
 }
 
 .fotter-left{
   float: left;
-}
-.fotter-right{
-  float:right;
-  margin-right:30px;
 }
 
 .fotter-right a{
@@ -387,14 +376,12 @@ footer{
 </div>
 <footer>
 <div class="fotter-left">
-オモロタス
+    <img class="logo" src="img/headlogo.jpg">
 </div>
 
+
 <div id="smoothplay" class="fotter-right">
-     <a><li><font face="Hiragino Kaku Gothic Std">トップ</font></li></a>  
-     <a><li><font face="Hiragino Kaku Gothic Std">アバウト</font></li></a> 
-     <a><li><font face="Hiragino Kaku Gothic Std">アイドル</font></li></a>
-     <a><li><font face="Hiragino Kaku Gothic Std">お問い合わせ</font></li></a>
+Copyright © 2015-2016 sometimes study All Rights Reserved.
 </div>
 
 </footer>
