@@ -99,12 +99,8 @@ footer{
 
 }
 
-.fotter-left{
-  float: left;
-}
 .fotter-right{
   float:right;
-  margin:40px 500px 0px 0px;
 }
 
 .fotter-right a{
