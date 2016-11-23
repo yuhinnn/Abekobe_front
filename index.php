@@ -14,6 +14,12 @@ body{
     right: 200px;
     bottom: 1625px;
 }
+.about{
+    position:absolute;
+    right: 200px;
+    bottom: 4850px;
+    
+}
 .gmail{
  color:red;
 }
@@ -365,8 +371,8 @@ footer{
     </div>
     <div class="header-right">
     <ul>
-     <a href="#smoothplay"><li><font size="5">About</font></li></a>  
-     <a href="#smoothplay"><li><font size="5">Produce</font></li></a>  
+     <a href="#smoothplay1"><li><font size="5">About</font></li></a>  
+     <a href="#smoothplay2"><li><font size="5">Produce</font></li></a>  
      <a href="#smoothplay"><li><font size="5">Contact</font></li></a>  
      <a href="#smoothplay"><li><font size="5">Member</font></li></a>  
    </ul>
@@ -387,6 +393,8 @@ footer{
     <p class="absolute gmail">
     <font size="25">omlts.abekobe@gmail.com</font>
     </p>
+    <p id="smoothplay1" class="about absolute">a</p>
+    <p id="smoothplay2" class="produce absolute">b</p>
 　</div>
 <footer>
 
@@ -395,7 +403,7 @@ footer{
 </div>
 
 
-<div id="smoothplay" class="fotter-right">
+<div id="" class="fotter-right">
 Copyright © 2015-2016 sometimes study All Rights Reserved.
 </div>
 
