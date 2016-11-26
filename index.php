@@ -398,7 +398,7 @@ footer{
 
 <img class="aidl" src="img/aidl.jpg">
   <div class="top-container">
-    <a href="#" class="btn sinki">Gmail</a>
+    <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文" class="btn sinki">Gmail</a>
     <a href="https://www.facebook.com/omorotasu/" class="btn facebook">facebook</a>
     <a href="http://twitter.com/omorotasu3" class="btn twitter">twitter</a>
   </div>
@@ -408,9 +408,11 @@ footer{
     <p class="absolute gmail">
     <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文">omlts.abekobe@gmail.com</a>
     </p>
+<!--
     <p id="smoothplay1" class="about absolute">a</p>
     <p id="smoothplay2" class="produce absolute">b</p>
 　</div>
+--!>
 <footer>
 
 <div class="fotter-left">
