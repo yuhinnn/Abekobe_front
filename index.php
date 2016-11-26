@@ -8,11 +8,19 @@ body{
 }
 .relative{
  position:relative;
+ margin:0;
+ padding:0;
+ width:100%;
+ text-align:center;
 }
 .absolute {
     position: absolute;
-    right: 200px;
-    bottom: 1600px;
+    bottom: 1730px;
+    width:100%;
+    text-align:center;
+    font-size:290%;
+    margin:0;
+    padding:0;
 }
 .about{
     position:absolute;
@@ -46,11 +54,15 @@ height:2800px;
   background-repeat:no-repeat;
 }*/ 
 
+/*
 .main{
   margin:0 auto;
   display: block;
   width:95%;
-}
+}*/ 
+
+
+
 
 .produce{
   padding-top:9000px;
@@ -392,9 +404,9 @@ footer{
   </div>
 </div>
    <div class="relative">
-    <img class="main" src="img/omlts_img.jpg">
+    <img class="main" src="img/omlts_img_pc.jpg">
     <p class="absolute gmail">
-    <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文"><font size="25">omlts.abekobe@gmail.com</font></a>
+    <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文">omlts.abekobe@gmail.com</a>
     </p>
     <p id="smoothplay1" class="about absolute">a</p>
     <p id="smoothplay2" class="produce absolute">b</p>
