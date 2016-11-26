@@ -127,7 +127,6 @@ a:hover {
 }
 footer{
   border-top:1px solid #777777;
-  margin-top:70px;
   padding-top:10px;
 
 }
