@@ -394,7 +394,7 @@ footer{
    <div class="relative">
     <img class="main" src="img/omlts_img.jpg">
     <p class="absolute gmail">
-    <a href="mailto:omlts.abekobe@gmail.com?subject=件名><font size="25">omlts.abekobe@gmail.com</font></a>
+    <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文"><font size="25">omlts.abekobe@gmail.com</font></a>
     </p>
     <p id="smoothplay1" class="about absolute">a</p>
     <p id="smoothplay2" class="produce absolute">b</p>
