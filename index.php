@@ -15,7 +15,7 @@ body{
 }
 .absolute {
     position: absolute;
-    bottom: 1730px;
+    bottom: 1830px;
     width:100%;
     text-align:center;
     font-size:290%;
