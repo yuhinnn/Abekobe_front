@@ -393,7 +393,7 @@ footer{
   </div>
 </div>
    <div class="relative">
-    <img class="main" src="img/main.jpg">
+    <img class="main" src="img/omlts_img.jpg">
     <p class="absolute gmail">
     <font size="25">omlts.abekobe@gmail.com</font>
     </p>
