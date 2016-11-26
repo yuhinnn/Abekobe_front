@@ -12,7 +12,7 @@ body{
 .absolute {
     position: absolute;
     right: 200px;
-    bottom: 1625px;
+    bottom: 1600px;
 }
 .about{
     position:absolute;
