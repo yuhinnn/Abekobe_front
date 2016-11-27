@@ -43,12 +43,13 @@ body{
 
 }
 .page_top{
-    position: absolute;
-    text-align: center;
-    width: 20%;
-    padding-top: 4550px;
-    right: 600px;   
+   /* padding-top:4550px;*/
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+    padding-top:30px;
 
+    
 }
 .about{
     position:absolute;
@@ -350,7 +351,7 @@ footer{
   width:100%;
   height: 80px;
   padding-bottom:0;
-  margin-top:300px;
+  margin-top:50px;
 }
 
 .fotter-left{
@@ -447,7 +448,7 @@ footer{
 　</div>
 --!>
 
-    <a href="#smoothplay5"><img class="page_top" src="img/page_top.png"></a>
+    <a href="#smoothplay5"><img class="page_top" src="img/page.png"></a>
 <footer>
 
 <div class="fotter-left">
