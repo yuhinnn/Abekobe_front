@@ -388,7 +388,7 @@ footer{
     <ul>
      <a href="#smoothplay1"><li><font size="5">About</font></li></a>  
      <a href="#smoothplay2"><li><font size="5">Produce</font></li></a>  
-     <a href="#smoothplay"><li><font size="5">Contact</font></li></a>  
+     <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文"><li><font size="5">Contact</font></li></a>  
      <a href="#smoothplay"><li><font size="5">Member</font></li></a>  
    </ul>
     </div>
