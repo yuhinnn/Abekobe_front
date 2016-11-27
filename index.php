@@ -438,7 +438,6 @@ footer{
     <p id="smoothplay1" class="smooth1">.</p>
     <p id="smoothplay2" class="smooth2">.</p>
     <p id="smoothplay4" class="smooth4">.</p>
-    <a href="#smoothplay5"><img src="img/page_top.png" class="page_top"></a>
     <p id="smoothplay5" class="smooth5">f</p>
 <!--
     <p id="smoothplay1" class="about absolute">a</p>
@@ -448,7 +447,7 @@ footer{
 <footer>
 
 <div class="fotter-left">
-    <img class="logo" src="img/headlogo.jpg">
+   <a href="#smoothplay5"><img class="logo" src="img/headlogo.jpg"></a>
 </div>
 
 
