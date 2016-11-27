@@ -22,6 +22,33 @@ body{
     margin:0;
     padding:0;
 }
+.smooth1{
+    position: absolute;
+    bottom: 4590px;
+
+}
+.smooth2{
+    position: absolute;
+    bottom: 3420px;
+
+}
+.smooth4{
+    position: absolute;
+    bottom: 1695px;
+
+}
+.smooth5{
+    position: absolute;
+    bottom: 5800px;
+
+}
+.page_top{
+    position: absolute;
+    bottom:305px;
+    right:1250px;
+    width:10%;
+
+}
 .about{
     position:absolute;
     right: 200px;
@@ -389,7 +416,7 @@ footer{
      <a href="#smoothplay1"><li><font size="5">About</font></li></a>  
      <a href="#smoothplay2"><li><font size="5">Produce</font></li></a>  
      <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文"><li><font size="5">Contact</font></li></a>  
-     <a href="#smoothplay"><li><font size="5">Member</font></li></a>  
+     <a href="#smoothplay4"><li><font size="5">Member</font></li></a>  
    </ul>
     </div>
     </div>
@@ -408,6 +435,11 @@ footer{
     <p class="absolute gmail">
     <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文">omlts.abekobe@gmail.com</a>
     </p>
+    <p id="smoothplay1" class="smooth1">.</p>
+    <p id="smoothplay2" class="smooth2">.</p>
+    <p id="smoothplay4" class="smooth4">.</p>
+    <a href="#smoothplay5"><img src="img/page_top.png" class="page_top"></a>
+    <p id="smoothplay5" class="smooth5">f</p>
 <!--
     <p id="smoothplay1" class="about absolute">a</p>
     <p id="smoothplay2" class="produce absolute">b</p>
