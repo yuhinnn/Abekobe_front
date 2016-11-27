@@ -15,7 +15,7 @@ body{
 }
 .absolute {
     position: absolute;
-    bottom: 1830px;
+    bottom: 2130px;
     width:100%;
     text-align:center;
     font-size:290%;
@@ -24,29 +24,30 @@ body{
 }
 .smooth1{
     position: absolute;
-    bottom: 4590px;
+    bottom: 4890px;
 
 }
 .smooth2{
     position: absolute;
-    bottom: 3420px;
+    bottom: 3730px;
 
 }
 .smooth4{
     position: absolute;
-    bottom: 1695px;
+    bottom: 1985px;
 
 }
 .smooth5{
     position: absolute;
-    bottom: 5800px;
+    bottom: 6800px;
 
 }
 .page_top{
     position: absolute;
-    bottom:305px;
-    right:1250px;
-    width:10%;
+    text-align: center;
+    width: 20%;
+    padding-top: 4550px;
+    right: 600px;   
 
 }
 .about{
@@ -349,6 +350,7 @@ footer{
   width:100%;
   height: 80px;
   padding-bottom:0;
+  margin-top:300px;
 }
 
 .fotter-left{
@@ -444,6 +446,8 @@ footer{
     <p id="smoothplay2" class="produce absolute">b</p>
 　</div>
 --!>
+
+    <a href="#smoothplay5"><img class="page_top" src="img/page_top.png"></a>
 <footer>
 
 <div class="fotter-left">
